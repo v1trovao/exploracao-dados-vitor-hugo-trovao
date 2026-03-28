@@ -1,0 +1,18 @@
+{
+    "nome": "Medalhas Olímpicas",
+    "fonte": "Dataset Histórico + Paris 2024",
+    "descricao": "Contagem de medalhas dos países por ano e edição",
+    "campos": [
+        "year",
+        "edition",
+        "edition_id",
+        "country",
+        "country_noc",
+        "gold",
+        "silver",
+        "bronze",
+        "total"
+    ],
+    "data_coleta": "28-03-2026",
+    "observacoes": "Houve seleção das colunas de interesse e padronização dos nomes + concatenação"
+}

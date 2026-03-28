@@ -1,0 +1,14 @@
+{
+    "nome": "Jogos Olímpicos",
+    "fonte": "Dataset Histórico + Paris 2024",
+    "descricao": "Dados sobre as modalidades olímpicas",
+    "campos": [
+        "year",
+        "edition",
+        "edition_id",
+        "sport",
+        "event"
+    ],
+    "data_coleta": "28-03-2026",
+    "observacoes": "Houve seleção das colunas de interesse e padronização dos nomes + concatenação"
+}
