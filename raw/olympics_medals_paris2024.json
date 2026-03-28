@@ -1,0 +1,8 @@
+{
+    "nome": "Medals Total",
+    "fonte": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/",
+    "descricao": "Contagem do total de medalhas agrupados por país",
+    "campos principais": ["current", "name", "gender", "function", "country"],
+    "data_coleta": "27-03-2025",
+    "observacoes":""
+}

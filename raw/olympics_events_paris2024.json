@@ -1,0 +1,8 @@
+{
+    "nome": "Events",
+    "fonte": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/",
+    "descricao": "Dados sobre as modalidades olímpicas",
+    "campos principais": ["name", "tag", "sport", "code", "url"],
+    "data_coleta": "27-03-2025",
+    "observacoes":""
+}

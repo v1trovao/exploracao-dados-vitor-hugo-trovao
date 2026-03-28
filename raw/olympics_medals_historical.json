@@ -1,0 +1,8 @@
+{
+    "nome": "Game Medal Tally",
+    "fonte": "https://basedosdados.org/dataset/62f8cb83-ac37-48be-874b-b94dd92d3e2b?table=08089f55-ccf3-474e-80c7-d531d859689a",
+    "descricao": "Contagem de medalhas dos paises durante os Jogos Olímpicos",
+    "campos principais": ["edition", "sport", "athlete", "position", "country"],
+    "data_coleta": "18-07-2024",
+    "observacoes": "Cada linha representa um país em cada jogo olímpico disputado"
+}

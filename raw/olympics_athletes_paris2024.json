@@ -1,0 +1,8 @@
+{
+    "nome": "Athletes",
+    "fonte": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/",
+    "descricao": "Informações pessoais dos atletas olímpicos",
+    "campos principais": ["current", "name", "gender", "function", "country"],
+    "data_coleta": "27-03-2025",
+    "observacoes":""
+}
