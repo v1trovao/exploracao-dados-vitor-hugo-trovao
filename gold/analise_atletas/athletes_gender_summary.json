@@ -1,0 +1,12 @@
+{
+    "nome": "Total de Atletas Olímpicos por Gênero",
+    "fonte": "olympic_athletes.parquet",
+    "descricao": "Contagem de atletas homens e mulheres nas Olímpiadas",
+    "campos": [
+        "index",
+        "gender",
+        "count"
+    ],
+    "data_coleta": "29-03-2026",
+    "observacoes": "A contagem contêm duplicatas por conta da não padronização dos nomes presentes nos datasets"
+}

@@ -1,0 +1,14 @@
+{
+    "nome": "Total de Medalhas Olímpicas por País",
+    "fonte": "Dados sobre atletas por gênero",
+    "descricao": "Contagem de Bronzes, Pratas, Ouro e Total por País",
+    "campos": [
+        "country",
+        "gold",
+        "silver",
+        "bronze",
+        "total"
+    ],
+    "data_coleta": "29-03-2026",
+    "observacoes": "A contagem é referente aos Jogos Olímpicos de Verão e Inverno"
+}
