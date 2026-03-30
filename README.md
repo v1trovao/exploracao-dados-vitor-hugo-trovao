@@ -4,7 +4,7 @@ A seguinte atividade teve como objetivo elaborar um **Data Lake local** sobre os
 
 * **raw** → dados brutos
 * **bronze** → dados tratados
-* **gold** → análises e visualizações
+* **gold** → visualizações
 
 Em cada camada foram definidos metadados para visualizar a estrutura geral da base de dados nas etapas de carregamento, pré-processamento e análise 
 
