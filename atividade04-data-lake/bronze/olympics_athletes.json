@@ -1,0 +1,12 @@
+{
+    "nome": "Atletas Olímpicos",
+    "fonte": "Dados sobre atletas por gênero",
+    "descricao": "Dados padronizados + Join",
+    "campos": [
+        "id",
+        "name",
+        "gender"
+    ],
+    "data_coleta": "28-03-2026",
+    "observacoes": "Houve seleção das colunas de interesse e padronização dos nomes + concatenação"
+}

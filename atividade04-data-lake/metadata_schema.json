@@ -1,0 +1,28 @@
+[
+    {
+        "nome": {
+            "type": "string",
+            "description": "Nome do dataset"
+        },
+        "fonte": {
+            "type": "string",
+            "description": "Origem dos dados"
+        },
+        "descricao": {
+            "type": "string",
+            "description": "Explicação sobre os dados"
+        },
+        "campos": {
+            "type": "array",
+            "description": "Lista dos campos principais dos dados"
+        },
+        "data_coleta": {
+            "type": "string",
+            "description": "Data de criação do arquivo"
+        },
+        "observacoes": {
+            "type": "string",
+            "description": "Detalhes adicionais sobre os dados"
+        }
+    }
+]

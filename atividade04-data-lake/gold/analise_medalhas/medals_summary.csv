@@ -1,0 +1,162 @@
+,country,gold,silver,bronze,total
+0,United States,1223,1007,881,3111
+1,Soviet Union,473,376,355,1204
+2,Great Britain,317,350,359,1026
+3,Germany,327,324,328,979
+4,France,288,325,362,975
+5,Italy,276,249,285,810
+6,China,325,258,221,804
+7,Sweden,215,232,244,691
+8,Japan,206,190,224,620
+9,Australia,186,196,231,613
+10,Canada,156,190,231,577
+11,Norway,211,188,176,575
+12,Russian Federation,194,169,188,551
+13,Hungary,190,165,189,544
+14,East Germany,192,165,162,519
+15,Netherlands,166,162,182,510
+16,Finland,149,151,185,485
+17,Republic of Korea,142,130,126,398
+18,Switzerland,120,133,135,388
+19,Austria,95,125,137,357
+20,Poland,83,102,154,339
+21,Romania,93,101,124,318
+22,Cuba,86,70,88,244
+23,West Germany,67,82,94,243
+24,Bulgaria,58,91,88,237
+25,Denmark,50,85,88,223
+26,Spain,54,77,61,192
+27,Belgium,51,59,74,184
+28,Czechoslovakia,51,58,62,171
+29,Brazil,40,49,81,170
+30,New Zealand,65,42,56,163
+31,Ukraine,41,43,76,160
+32,Unified Team,54,44,37,135
+33,UT Germany,34,57,40,131
+34,Greece,37,46,47,130
+35,Kenya,39,44,41,124
+36,ROC,28,46,46,120
+37,Türkiye,41,29,41,111
+38,Czechia,32,33,41,106
+39,Belarus,21,37,47,105
+40,South Africa,28,37,32,97
+41,Jamaica,27,39,28,94
+42,Iran,27,29,32,88
+43,Yugoslavia,26,32,29,87
+44,Kazakhstan,16,27,43,86
+45,Argentina,22,27,31,80
+46,Mexico,13,27,37,77
+47,DPR Korea,16,19,28,63
+48,Ethiopia,24,15,23,62
+49,Croatia,20,21,18,59
+50,Azerbaijan,9,16,31,56
+51,Slovenia,14,18,23,55
+52,Uzbekistan,19,8,23,50
+53,Georgia,13,15,19,47
+54,Ireland,15,11,19,45
+55,Estonia,14,11,19,44
+56,Slovakia,14,18,11,43
+57,Chinese Taipei,9,11,23,43
+58,India,10,10,21,41
+59,Thailand,11,11,19,41
+60,Egypt,9,11,19,39
+61,Indonesia,10,14,15,39
+62,Colombia,5,16,17,38
+63,Portugal,6,11,15,32
+64,Mongolia,2,12,17,31
+65,Latvia,5,14,12,31
+66,Lithuania,6,9,15,30
+67,Serbia,9,8,12,29
+68,Nigeria,3,11,13,27
+69,Morocco,8,5,13,26
+70,Armenia,2,11,9,22
+71,Israel,4,6,10,20
+72,Algeria,7,4,9,20
+73,Venezuela,3,7,9,19
+74,Trinidad and Tobago,3,5,11,19
+75,Philippines,3,5,10,18
+76,Tunisia,6,4,8,18
+77,The Bahamas,8,2,6,16
+78,Malaysia,0,8,7,15
+79,Dominican Republic,4,5,6,15
+80,Chile,3,8,4,15
+81,Kyrgyzstan,0,5,8,13
+82,"Hong Kong, China",4,3,6,13
+83,Uganda,5,5,3,13
+84,Puerto Rico,2,2,8,12
+85,Australasia,3,4,5,12
+86,Pakistan,4,3,4,11
+87,Republic of Moldova,0,3,7,10
+88,Mixed team,4,2,4,10
+89,Ecuador,4,4,2,10
+90,Liechtenstein,2,2,6,10
+91,Uruguay,2,2,6,10
+92,Serbia and Montenegro,2,4,3,9
+93,Qatar,2,2,5,9
+94,Zimbabwe,3,4,1,8
+95,Bahrain,4,3,1,8
+96,Tajikistan,1,1,5,7
+97,Luxembourg,3,4,0,7
+98,Cameroon,3,1,2,6
+99,Singapore,1,2,3,6
+100,Namibia,0,5,0,5
+101,Kosovo,3,1,1,5
+102,Vietnam,1,3,1,5
+103,Côte d'Ivoire,1,1,3,5
+104,Ghana,0,1,4,5
+105,Grenada,1,1,3,5
+106,Independent Olympic Athletes,1,1,3,5
+107,AIN,1,3,1,5
+108,Peru,1,3,1,5
+109,Lebanon,0,2,2,4
+110,Kingdom of Saudi Arabia,0,2,2,4
+111,Jordan,1,2,1,4
+112,Iceland,0,2,2,4
+113,Syrian Arab Republic,1,1,2,4
+114,Fiji,2,1,1,4
+115,Costa Rica,1,1,2,4
+116,Botswana,1,2,1,4
+117,Panama,1,1,2,4
+118,Bohemia,0,1,3,4
+119,Kuwait,0,0,3,3
+120,Guatemala,1,1,1,3
+121,Zambia,0,1,2,3
+122,San Marino,0,1,2,3
+123,Cyprus,0,2,0,2
+124,United Arab Emirates,1,0,1,2
+125,Burundi,1,1,0,2
+126,United Arab Republic,0,1,1,2
+127,Afghanistan,0,0,2,2
+128,United Republic of Tanzania,0,2,0,2
+129,North Macedonia,0,1,1,2
+130,Niger,0,1,1,2
+131,Mozambique,1,0,1,2
+132,West Indies Federation,0,0,2,2
+133,Albania,0,0,2,2
+134,Bermuda,1,0,1,2
+135,Sri Lanka,0,2,0,2
+136,Saint Lucia,1,1,0,2
+137,Haiti,0,1,1,2
+138,Suriname,1,0,1,2
+139,Djibouti,0,0,1,1
+140,Gabon,0,1,0,1
+141,Iraq,0,0,1,1
+142,Samoa,0,1,0,1
+143,Senegal,0,1,0,1
+144,Barbados,0,0,1,1
+145,Guyana,0,0,1,1
+146,Paraguay,0,1,0,1
+147,United States Virgin Islands,0,1,0,1
+148,Mauritius,0,0,1,1
+149,Netherlands Antilles,0,1,0,1
+150,Togo,0,0,1,1
+151,Sudan,0,1,0,1
+152,Burkina Faso,0,0,1,1
+153,Cabo Verde,0,0,1,1
+154,Montenegro,0,1,0,1
+155,Eritrea,0,0,1,1
+156,Turkmenistan,0,1,0,1
+157,EOR,0,0,1,1
+158,Dominica,1,0,0,1
+159,Tonga,0,1,0,1
+160,Monaco,0,0,1,1

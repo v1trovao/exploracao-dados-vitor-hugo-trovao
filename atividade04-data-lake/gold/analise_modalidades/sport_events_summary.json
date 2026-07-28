@@ -1,0 +1,11 @@
+{
+    "nome": "Total de Modalidades por Esporte",
+    "fonte": "olympic_sports.parquet",
+    "descricao": "Contagem de modalidades existentes por esporte",
+    "campos": [
+        "sport",
+        "total_events"
+    ],
+    "data_coleta": "29-03-2026",
+    "observacoes": "A contagem é referente aos Jogos Olímpicos de Verão e Inverno"
+}
